@@ -22,6 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 -npm i react-intersection-observer
 -npm i react-vertical-timeline-component
 -npm i resend@0.16.0
+-npm i @react-email/components @react-email/tailwind
 
 ## Learn More
 
